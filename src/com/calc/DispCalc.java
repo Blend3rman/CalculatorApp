@@ -34,8 +34,8 @@ public class DispCalc extends Activity{
 	
 	protected void calcDo() {
 		// TODO Implement stack concept of calculator
-		// TODO Let's use Polish notation, postfix for input, 
-		//      convert to infix and calculate
+		// TODO Let's use Polish notation, infix for input, 
+		//      convert to postfix and calculate
 		
 	}
 	
